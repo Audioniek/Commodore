@@ -1,3 +1,3 @@
-6502NOPper
+# 6502NOPper
 
 An amazingly simple 6502 hardware debugging tool.
