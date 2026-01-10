@@ -1,0 +1,17 @@
+G04 start of page 9 for group -4078 idx -4078 *
+G04 Title: PET_32k, bottomsilk *
+G04 Creator: pcb 4.0.2 *
+G04 CreationDate: Sat May  3 17:01:18 2025 UTC *
+G04 For: ndv *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 820.00 2020.00 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNBOTTOMSILK*%
+%ADD29C,0.0100*%
+G54D29*X0Y202000D02*Y0D01*
+Y202000D02*X82000D01*
+X0Y0D02*X82000D01*
+Y202000D02*Y0D01*
+M02*
