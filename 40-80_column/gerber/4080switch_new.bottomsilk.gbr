@@ -1,0 +1,17 @@
+G04 start of page 8 for group -4078 idx -4078 *
+G04 Title: 40/80switcher, bottomsilk *
+G04 Creator: pcb 4.0.2 *
+G04 CreationDate: Mon Apr 21 21:42:30 2025 UTC *
+G04 For: ndv *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 2030.00 2290.00 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNBOTTOMSILK*%
+%ADD54C,0.0100*%
+G54D54*X0Y229000D02*X203000D01*
+X0D02*Y0D01*
+X203000Y229000D02*Y0D01*
+X0D02*X203000D01*
+M02*
